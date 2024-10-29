@@ -1,0 +1,13 @@
+
+
+
+function functionName()
+{
+    //body
+}
+
+
+############### DOM ############
+DOM = Document Object Model
+Eent = Onclick, Onchange,Onkeyup,Onkeydown, Onblur, Onmouesover,Onmouseout,Onkeypress,Onsubmit,
+Onload, Onscroll.
